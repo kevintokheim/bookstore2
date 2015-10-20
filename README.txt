@@ -10,9 +10,13 @@ This is a website for a bookstore developed with the Drupal content management s
 
 ## Setup
 
+database: bookstore_database
+username: kevin
+password: viking
+
 To view the website, clone the repository from Github. Next, point your Apache server to the project folder. Type in the URL localhost/phpmyadmin
 in the search bar, and it will take you to the phpMyAdmin page. Import the database from the db-backup folder in the sites folder into phpMyAdmin,
-and add a user with the username "kevin" and password "derpderpderpderp." You will now be able to access the Drupal site at localhost/drupal.
+and add a user with the username "kevin" and password "viking." You will now be able to access the Drupal site at localhost/drupal.
 
 ## Technologies Used
 
